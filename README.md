@@ -13,6 +13,11 @@ Iremos utilizar o plugin no VSCODE, você pode buscar na lista de plugins ou cli
 - [Jetbrains](https://plugins.jetbrains.com/plugin/19495-datadog)
 - [VisualStudio](https://marketplace.visualstudio.com/items?itemName=Datadog.VisualStudio)
 
+## Aplicações de Teste
+
+Iremos utilizar esse repo com aplicações vulneraveis (propositalmente) para fins de estudo, não execute isso em produção!
+[Repo](https://github.com/DataDog/dd-asm-samples)
+
 ## É isso ai!
 
 A ideia do repositório é compartilhar os códigos para que você possa replicar quando necessário, a Observabilidade e Segurança são importantes para entregar o melhor para nossos clientes.
@@ -20,3 +25,4 @@ A ideia do repositório é compartilhar os códigos para que você possa replica
 ## Treinamentos adicionais gratuitos
 - [Foundation Enablement sessions](https://www.datadoghq.com/technical-enablement/sessions/)
 - [Datadog Learning Center](https://learn.datadoghq.com/)
+- [Measure your DevSecOps maturity with Datadog](https://www.datadoghq.com/blog/devsecops-maturity-model-self-assessment/) 
